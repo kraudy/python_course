@@ -2,7 +2,17 @@
 
 # Topics
 - List Object
+  - Add
+  - Delete
+  - Order
+  - Search
+  - Append
+  - Tupples
 - Dict Object
+  - Delete
+  - Add
+  - Create
+  - ratomo?
 
 ## List Object
 
